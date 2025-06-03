@@ -1,4 +1,12 @@
-<h2 align="left">Olá👋<br> Bem-vindo ao meu perfil!! :D</h2>
+<h2 align="center">Olá, meu nome é Matheus 👋<br>Bem-vindo ao meu perfil!! :D</h2>
+
+###
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia e estou sempre em busca de aprender algo novo. Acredito que a evolução vem da prática, da curiosidade e da vontade constante de melhorar.
+
+💡 Já desenvolvi projetos práticos utilizando JavaScript, React e Node.js, aplicando boas práticas e aprendizado constante. Tenho interesse em soluções inovadoras que impactem positivamente o usuário. Meu objetivo é contribuir efetivamente em projetos reais, expandir minhas habilidades técnicas e crescer profissionalmente no ambiente de tecnologia.
+
+🚀 Estou sempre buscando oportunidades para aplicar meus conhecimentos, aprender com outros profissionais e evoluir como desenvolvedor.
 
 ###
 
